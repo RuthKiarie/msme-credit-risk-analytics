@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python Cache & Excel lock files
+__pycache__/
+*.pyc
+~$*
+
+# Local Databases (if your pipeline uses SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# OS Files
+Thumbs.db
+desktop.ini

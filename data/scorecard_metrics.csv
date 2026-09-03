@@ -1,0 +1,2 @@
+auc_roc,precision,recall,bad_loan_rate_test,n_test
+0.61,0.154,0.4,0.1145,262

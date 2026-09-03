@@ -1,0 +1,29 @@
+feature,coefficient
+bureau_score,-0.8915581467270315
+region_Nakuru,-0.6790545570719916
+sector_Manufacturing,0.5895868102430389
+loan_term_months,0.5368759616043658
+region_Mombasa,-0.48848485675052983
+region_Kisumu,0.4491853696037913
+sector_Construction,-0.41678472306250575
+loan_amount_kes,-0.41343900632026964
+sector_Services,-0.38697476945094267
+business_age_months,-0.35658860830294814
+region_Nairobi,0.3295806023566822
+sector_Agriculture,0.32375065337338726
+monthly_revenue_kes,0.31109415262121703
+region_Rural - Other,0.25084937378565597
+interest_rate,0.22700529599603367
+gender_of_owner_Male,-0.1894964453025189
+gender_of_owner_Female,0.18897423472071243
+product_type_Asset Finance,0.18330463018875093
+region_Eldoret,0.1374018574945863
+disbursement_channel_Mobile App,0.12058312576626547
+product_type_Working Capital,-0.12030611797448829
+num_employees,-0.10776890363973532
+disbursement_channel_Branch,-0.09100896559465951
+sector_Retail & Trade,-0.0707193223899473
+product_type_Invoice Discounting,-0.0635207227960754
+sector_Transport & Logistics,-0.039380859294833086
+disbursement_channel_Partner Referral,-0.030096370753420826
+loan_to_revenue,-0.006736491104463237
