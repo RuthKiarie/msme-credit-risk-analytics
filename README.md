@@ -12,15 +12,19 @@ dashboard.
 This mirrors the five core responsibility areas of a portfolio/credit
 analytics role:
 
-1. **Data Analysis & Reporting** — SQL extraction, cleaning, joins, EDA
-2. **Credit & Portfolio Analytics** — PAR30/PAR90, DPD, repayment rate,
+1. **Data Analysis & Reporting** - SQL extraction, cleaning, joins, EDA
+2. **Credit & Portfolio Analytics** - PAR30/PAR90, DPD, repayment rate,
    disbursement/collections trends, segmentation
-3. **Insights & Reporting** — Power-BI-style dashboard + one-page stakeholder
+3. **Insights & Reporting** - Power-BI-style dashboard + one-page stakeholder
    report
-4. **Model Experimentation Support** — a credit scorecard prototype
+4. **Model Experimentation Support** - a credit scorecard prototype
    (logistic regression) with honest, documented evaluation
-5. **Documentation & Best Practices** — reusable SQL templates, a full data
+5. **Documentation & Best Practices** - reusable SQL templates, a full data
    dictionary, and a reproducible pipeline
+
+
+## Tech_Stack: 
+Python, Pandas, OpenPyXL, python-docx, Excel.
 
 ## Data
 
