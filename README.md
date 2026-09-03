@@ -1,9 +1,7 @@
 # MSME Loan Portfolio Risk & Performance Dashboard
 
 A self-directed project simulating the day-to-day analytics work of a Junior
-Data Scientist at an embedded-finance / MSME-lending company (built with
-Pezesha's business model in mind, as referenced on the Junior Data Scientist job
-description): turning raw loan and repayment data into
+Data Scientist at an embedded-finance / MSME-lending company: turning raw loan and repayment data into
 portfolio risk metrics, a credit scorecard prototype and a stakeholder-ready
 dashboard.
 
@@ -47,7 +45,7 @@ dashboard workbook.
 
 ```
 build.py (+ generate_data)     → builds the synthetic borrowers/loans/repayments CSVs
-                               → loads CSVs into a SQLite database (pezesha_portfolio.db)
+                               → loads CSVs into a SQLite database (company_any_portfolio.db)
 01_loan_risk_status            → per-loan DPD & outstanding balance view
 02_par_metrics                 → PAR30/PAR90, overall + by sector + by region
 03_repayment_and_trends        → repayment rate, monthly disbursement/collections
