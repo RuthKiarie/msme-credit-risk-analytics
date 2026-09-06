@@ -19,7 +19,7 @@ analytics role:
 
 
 ## Tech_Stack: 
-Python, Pandas, OpenPyXL, python-docx, Excel.
+Python, Pandas, OpenPyXL, python-docx, Excel, Streamlit, AWS S3, AWS EC2.
 
 ## Data
 
