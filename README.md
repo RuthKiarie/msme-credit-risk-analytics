@@ -1,9 +1,6 @@
 # MSME Loan Portfolio Risk & Performance Dashboard
 
-A self-directed project simulating the day-to-day analytics work of a Junior
-Data Scientist at an embedded-finance / MSME-lending company: turning raw loan and repayment data into
-portfolio risk metrics, a credit scorecard prototype and a stakeholder-ready
-dashboard.
+MSMEs often struggle to access financing because lenders lack clear risk visibility. To explore this gap, I built a lightweight portfolio analytics tool: simulating loan and repayment data into PAR30/PAR90 tracking, a baseline credit scorecard, and a stakeholder‑ready dashboard.
 
 ## Why this project
 
