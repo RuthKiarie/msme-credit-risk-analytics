@@ -1,4 +1,5 @@
 # MSME Loan Portfolio Risk & Performance Dashboard
+Live link - http://msme-credit-risk-sys.duckdns.org/
 
 MSMEs often struggle to access financing because lenders lack clear risk visibility. To explore this gap, I built a lightweight portfolio analytics tool: simulating loan and repayment data into PAR30/PAR90 tracking, a baseline credit scorecard, and a stakeholder‑ready dashboard.
 
